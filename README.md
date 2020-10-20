@@ -1,33 +1,12 @@
-# Intro to the DOM 
+# DOM Manipulation
 
 ## SWBATs
+- [ ] Understand the relationship between HTML, Javascript and CSS
 - [ ] Draw DOM tree by looking at HTML
 - [ ] Explain what a DOM node is and what its most important attributes are
 - [ ] Use the Chrome Dev tools to explore the DOM tree and its attributes 
 - [ ] Use JS to select DOM nodes
 - [ ] Use JS to add, remove, and edit DOM nodes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Notes
 
